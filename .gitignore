@@ -1,3 +1,6 @@
+# Build artifact
+repeat-pvpn
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
